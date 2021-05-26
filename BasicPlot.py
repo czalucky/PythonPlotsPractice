@@ -8,4 +8,4 @@ plt.plot(x, y, 'g') # g for green
 plt.xlabel('X label')
 plt.ylabel('Y label')
 plt.title('Title')
-plt.show()
+plt.savefig("./graphs/BasicPlot.png")
