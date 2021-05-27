@@ -9,3 +9,5 @@ plt.xlabel('X label')
 plt.ylabel('Y label')
 plt.title('Title')
 plt.savefig("./graphs/BasicPlot.png")
+
+plt.show()
